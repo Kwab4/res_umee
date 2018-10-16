@@ -4,21 +4,20 @@ GO
 
 --SELECT * FROM Invoices
 UPDATE Invoices
-SET PaymentTotal = ' Null'
-WHERE PaymentTotal ='0';
+SET PaymentTotal = 1
+WHERE PaymentTotal is NULL 
 
-
+SELECT @@ROWCOUNT
 
 CREATE TABLE ALog (
-	LogId varchar(32) ,
+	LogId int UNIQUE,
 	TableName varchar(50),
-	ReportDate varchar(50),
+	ReportDate date,
 	NumberofUpdates int,
 	);
 
-	Update Invoices
-	SET PaymentTotal ='0'
-	WHERE PaymentTotal= 'Null'
+	Update ALog
+	SET NumberofUpdates =@@ROWCOUNT
 	IF @@ROWCOUNT = 0
 	Print 'No Rows were Updated';
 	Go
