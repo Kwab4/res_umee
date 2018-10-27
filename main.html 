@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title>Class 4</title>
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+    	<!-- --the heading will be in descending order of number to give it a balance -- -->
+        <h1 id="big-header" align="cen"> KWABENA AGYEI BOAHENE </h1>
+   <!--      <p>Let&rsquo;s experiment with:</p> -->
+        <ul>
+            <!-- 
+            <li><em class="main-topic">CSS</em> &mdash; Cascading Style Sheets</li>
+        </ul> -->
+       <!--  <a href="https://github.com/Kwab4/cs336">
+            <img src="hello-world.jpg" alt="Git Hub link "> -->
+            <!-- <iframe src="https://github.com/Kwab4/cs336" height="200" width="300"></iframe> -->
+    
+
+        <table>
+            <thead>
+            	<h2><em class="main-topic"> SKILLS </em> </h2>
+            	<a href="https://github.com/Kwab4/cs336">
+            <img src="hello-world.jpg" alt="Git Hub link "></a>
+
+<li><div><em class="main-topic"> HTML,CSS,R,C#,SQL,Python,Microsoft
+office,Photography</em> </div> </li>
+
+
+
+         <h2><em class="main-topic"> EDUCATION </em> </h2>
+
+             <li><div> <em class="main-topic"> <h4>BACHELOR OF ARTS: COMPUTER INFORMATION SYSTEMS
+                	Calvin College , Grand Rapids, MI 
+                	May 2019</h4></em> <!-- &mdash; -->
+
+
+
+
+		<h2><em class="main-topic"> EXPERIENCE </em> </h2>
+				<ul>
+    <li><div> <em class="main-topic"> <h4>Web Developer Intern</h4></em> &mdash;06/2016 to 07/2016
+   
+Worked on Front end code for several websites
+Managed the company's Social Media platforms </li></div></ul>
+
+
+<ul>
+    <li><div> <em class="main-topic"> <h4>Requirement Analyst</h4>
+    	<h5>CALVIN COLLEGE THEARTRE COMPANY</h5>
+    	<h6>Grand Rapids, MI</h6></em> &mdash;08/2017 to 12/2017
+
+Served as liason between client and software architects
+Prepared the user manual for the software package for the client
+Monitored user experience test to document the improvements </div>
+</li>
+</ul>
+
+
+
+<ul>
+    <li><div> <em class="main-topic"> <h4>User Analyst</h4>
+    	<h5>GRAND RAPIDS PUBLIC LIBRARY</h5>
+    	<h6>Grand Rapids, MI</h6></em> &mdash;08/2016 to 12/2016
+
+Monitored multiple databases to select decisive data-set to analyst for millage
+Consulted with the client and Data analyst on how to analyze data-set and fulfill client requirements
+Successfully streamlined specific areas client has to target to get millage passed
+</div>
+</li>
+</ul>
+
+<ul>
+    <li><div> <em class="main-topic"> <h4>Orientation Assistant</h4>
+    	<h5>CALVIN COLLEGE</h5>
+    	<h6>Grand Rapids, MI</h6></em> &mdash;08/2016 to Current
+
+Coordinated orientation for international students.
+Facilitated daily activities.
+Mentored and lead 160 students.
+Worked as a team lead with 13 other leaders
+</div>
+</li>
+</ul>
+
+
+</th></tr>
+<h2><em class="main-topic"> ACTIVITIES </em> </h2>
+
+<ul>
+    <li><div> <em class="main-topic"> <h4>2017 &mdash; 2018 Rangeela</h4>
+    	<h5>Rangeela &mdash;Assistant Director for Marketing</h5>
+    	<h6> CALVIN COLLEGE </h6></em> 
+Managed all creative content for publicity
+Exceeded expectation and sold out 3 nights of the show
+</div>
+</li>
+</ul>
+
+<ul>
+    <li><div> <em class="main-topic"> <h4>2018 &mdash; Current </h4>
+    	<h5>Rangeela &mdash; Lead Director</h5>
+    	<h6>CALVIN COLLEGE </h6></em> 
+Managing over 200 participants
+Chairing a 6 member Committee
+Rangeela is an annual culture show which includes 200 participants and 2000 plus audience members.
+</div>
+</li>
+</ul>
+
+
+
+            </thead>
+            <tbody>
+            
+            </tbody>
+        </table>
+    </body>
+</html>
